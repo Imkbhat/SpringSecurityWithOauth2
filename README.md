@@ -11,6 +11,6 @@ To configure your application in google, follow the below steps:
         in this tutorial we choose “Web Application”
     6. Add your redirect URI under “Authorized redirect URIs” text box, this is the URL which google uses when redirecting back 
     to your application after successful authentication.
-    7. Click on “Create”.
+    7. Click on “Create”. 
 
 Reference Used : https://www.programmergate.com/spring-boot-spring-security-oauth2/
