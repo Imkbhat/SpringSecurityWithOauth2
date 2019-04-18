@@ -2,4 +2,4 @@
 SpringSecurityWithOauth2
 
 
-Referenced: https://www.programmergate.com/spring-boot-spring-security-oauth2/
+Reference Used : https://www.programmergate.com/spring-boot-spring-security-oauth2/
